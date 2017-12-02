@@ -1,0 +1,14 @@
+Monthly task可以自动生成一个月的计划，这个可以用来督促自己尝试新的事情或者学习新的技能
+该项目采用AppleScript
+* 功能Functions
+  + 增加任意长度的自定制日历
+  + 随机16bit色彩
+
+* Todos
+  + 自动提醒功能
+
+* Demo
+[[./misc/demo.gif]]
+
+* 安装 Installations
+  + Go to latest [[https://github.com/Grox-Ni/monthly_task/releases][release]] and download it
