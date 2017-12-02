@@ -1,0 +1,12 @@
+* 功能Functions
+  + 增加任意长度的自定制日历
+  + 随机16bit色彩
+
+* Demo
+[[./misc/demo.gif]]
+
+* 安装 Installations
+  + Go to latest release and download it
+
+
+Built with AppleScript
